@@ -1,0 +1,1 @@
+`CREATE DATABASE smarttask_db;
